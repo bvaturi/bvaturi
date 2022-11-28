@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bvaturi
-- 👀 I’m interested in Data and Infra
-- 🌱 I’m currently learning Openshift and K8s
+- 👀 I’m interested in Data, Infra, Python and AWS
+- 🌱 I’m currently learning AWS, Python and flask
+- 🌱 I’m currently working with Openshift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
